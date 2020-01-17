@@ -1,0 +1,20 @@
+Mon Dec 23 22:17:26 EET 2019 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Dec 23 22:17:26 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-016f-3468-326b-ffffc7c40310 
+on database directory C:\Users\baris\OneDrive\Masaüstü\versiyonv1.6\.netbeans-derby\logindbb with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/glassfish-4.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Program Files\glassfish-4.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\baris\OneDrive\Masaüstü\versiyonv1.6\.netbeans-derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Dec 24 00:47:44 EET 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Dec 24 00:47:44 EET 2019:
+Shutting down instance a816c00e-016f-3468-326b-ffffc7c40310 on database directory C:\Users\baris\OneDrive\Masaüstü\versiyonv1.6\.netbeans-derby\logindbb with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
